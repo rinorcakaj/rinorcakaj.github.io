@@ -13,5 +13,5 @@ with the Robert Bosch GmbH in Feuerbach, Stuttgart. I'm currently studying regul
 
 My background
 ---
-I received my M.Sc. in Mathematics interdisciplinary Informatics and my B.Sc. in Business Mathematics at the Technical University (TU) of Darmstadt. 
+I received my M.Sc. in Mathematics interdisciplinary Informatics and my B.Sc. in Business Mathematics at the Technical University (TU) of Darmstadt. During my studies I worked as a student trainee at KPMG and Segura & Jesberger GmbH (Family Office). 
 
