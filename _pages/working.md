@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-Bosch
+PhD Candidate at Robert Bosch GmbH
 ---
 - Focus on Deep Learning.
 - In cooperation with the University of Stuttgart.
-- Supervisor: Dr. Jens Eric Markus Mehnert
+- Supervisor: Dr. Jens Eric Markus Mehnert.
 
-Segura & Jesberger
+Working student at Segura & Jesberger
 ---
 - Digitization of an annual capital market survey by coding a website using HTML, CSS, PHP, MySQL and Javascript.
 - Planning and development of software for automatic verfication of portfolios using machine learning methods and programming implementation in Python.
@@ -23,7 +23,7 @@ Segura & Jesberger
 - Development of models for business valuation.
 
 
-KPMG
+Working student at KPMG
 ---
 - Researching and assessing strategic technological trends to develop new digital strategies.
 - Assisting in the analysis of the data & analytics maturity level of a life science company using mathematical methods.
