@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Rinor Cakaj"
   avatar           : "A05A0300_ab.JPG"
-  bio              : "PhD Candidate"
-  location         : "Stuttgart, Germany"
-  employer         :
+  bio              : "PhD Candidate in Deep Learning"
+  location         : "Stuttgart, Frankfurt"
+  employer         : "Robert Bosch GmbH "
+  university       : "University of Stuttgart"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "rinor.cakaj@de.bosch.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rinorcakaj"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0008-9321-8012"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

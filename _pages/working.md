@@ -8,10 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-PhD Candidate at Robert Bosch GmbH
+PhD Candidate in Deep Learning at Robert Bosch GmbH
 ---
-- Focus on Deep Learning.
+- Focus on regularization techniques for supervised image classification.
 - In cooperation with the University of Stuttgart.
+- At the Institute of Signal Processing and System Theory.
 - Supervisor: Dr. Jens Eric Markus Mehnert.
 
 Working student at Segura & Jesberger
