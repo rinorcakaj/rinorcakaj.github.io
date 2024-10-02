@@ -16,10 +16,29 @@ Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You c
 My current research focuses on developing new regularization techniques and innovative CNN architectures to improve their efficiency and effectiveness. As part of my PhD, I have published five papers and authored five patents related to these novel methods, with one already published and four currently under review. Additionally, I’ve gained a thorough understanding of advanced deep learning architectures, including Transformers (such as Vision Transformers (ViT) and Large Language Models (LLMs)), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Diffusion Models, and Generative Adversarial Networks (GANs).
 
 ## Background
-Before starting my PhD, I completed a master’s in Mathematics interdisciplinary Informatics and a bachelor’s in Business Mathematics at the Technical University of Darmstadt. I also gained work experience as a working student in CIO Consulting - Digital Strategy at KPMG, as a mathematician in a family office at Segura & Jesberger GmbH, and in my current role at Robert Bosch GmbH focusing on deep learning.
+Before starting my PhD, I completed a master’s degree in Mathematics interdisciplinary Informatics and a bachelor’s degree in Business Mathematics at the Technical University of Darmstadt. I also gained work experience as a working student in CIO Consulting - Digital Strategy at KPMG, as a mathematician in a multi family office at Segura & Jesberger GmbH, and in my current role at Robert Bosch GmbH focusing on deep learning.
 
 ## Selected Publication
 - **[CNN Mixture-of-Depths](/publication/2024-10-01-mod)**  
   Rinor Cakaj, Jens Mehnert, Bin Yang  
   *To appear in the Asian Conference on Computer Vision (ACCV) 2024, Hanoi, Vietnam.*  
   [\[ArXiv\]](https://arxiv.org/abs/2409.17016)
+
+## Personal Projects
+
+### Stock Index Trend Prediction Tool
+In addition to my academic research, I’ve been working on a personal project to predict stock index trends using deep learning. I developed an end-to-end pipeline, starting with automatic data collection through web scraping and adding a plausibility check for data integrity. I processed the data using rolling statistics and data augmentation techniques to improve robustness and then split it into training, validation, and test sets.
+
+The deep learning model uses multi-scale convolutions to capture diverse patterns and BiLSTM layers for temporal dependencies. I implemented the entire system using Python and PyTorch, gaining hands-on experience with various tools and libraries such as JupyterLab, Plotly, Selenium, VS Code, Anaconda, Pandas, NumPy, Optuna, Pytest, Weights & Biases, Git, Docker, and Sphinx.
+
+
+Feel free to reach out if you’d like to discuss any of these topics in more detail!
+
+### Electronic Access Control System
+For my local swimming club, I developed an electronic access control system using a Raspberry Pi 4 and Python. The system features a GUI, an RFID reader with cards, and a touch display, providing an efficient way for members to access the club.
+
+### Early App Development
+During my school years, I explored app development by creating simple Android and iOS apps, such as a calculator and a game called "Bouncing Ball," where the goal was to keep the ball in the air. These early projects sparked my interest in software development and problem-solving.
+
+
+
