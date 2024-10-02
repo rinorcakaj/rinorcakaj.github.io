@@ -31,9 +31,6 @@ In addition to my academic research, I’ve been working on a personal project t
 
 The deep learning model uses multi-scale convolutions to capture diverse patterns and BiLSTM layers for temporal dependencies. I implemented the entire system using Python and PyTorch, gaining hands-on experience with various tools and libraries such as JupyterLab, Plotly, Selenium, VS Code, Anaconda, Pandas, NumPy, Optuna, Pytest, Weights & Biases, Git, Docker, and Sphinx.
 
-
-Feel free to reach out if you’d like to discuss any of these topics in more detail!
-
 ### Electronic Access Control System
 For my local swimming club, I developed an electronic access control system using a Raspberry Pi 4 and Python. The system features a GUI, an RFID reader with cards, and a touch display, providing an efficient way for members to access the club.
 
