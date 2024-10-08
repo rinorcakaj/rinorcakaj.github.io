@@ -29,13 +29,20 @@ Before starting my PhD, I completed a master’s degree in Mathematics interdisc
 ### Stock Index Trend Prediction Tool
 In addition to my academic research, I’ve been working on a personal project to predict stock index trends using deep learning. I developed an end-to-end pipeline, starting with automatic data collection through web scraping and adding a plausibility check for data integrity. I processed the data using rolling statistics and data augmentation techniques to improve robustness and then split it into training, validation, and test sets.
 
-The deep learning model uses multi-scale convolutions to capture diverse patterns and BiLSTM layers for temporal dependencies. I implemented the entire system using Python and PyTorch, gaining hands-on experience with various tools and libraries such as JupyterLab, Plotly, Selenium, VS Code, Anaconda, Pandas, NumPy, Optuna, Pytest, Weights & Biases, Git, Docker, and Sphinx.
+The deep learning model uses multi-scale convolutions to capture diverse patterns and BiLSTM layers to handle temporal dependencies. I implemented the project using Python and PyTorch, gaining practical experience with various tools and libraries, categorized as follows:
+
+- **Development Environment**: JupyterLab, VS Code, Anaconda
+- **Data Processing and Visualization**: Pandas, NumPy, Plotly, Matplotlib, Scipy
+- **Automation and Testing**: Selenium, Pytest, Optuna
+- **Model Tracking and Deployment**: Weights & Biases, TensorBoard, Docker, Git
+- **Documentation**: Sphinx
 
 ### Electronic Access Control System
 For my local swimming club, I developed an electronic access control system using a Raspberry Pi 4 and Python. The system features a GUI, an RFID reader with cards, and a touch display, providing an efficient way for members to access the club.
 
 ### Early App Development
-During my school years, I explored app development by creating simple Android and iOS apps, such as a calculator and a game called "Bouncing Ball," where the goal was to keep the ball in the air. These early projects sparked my interest in software development and problem-solving.
+During my school years, I explored app development by creating simple Android and iOS apps, such as a calculator and a game called "Bouncing Ball," where the goal was to keep the ball in the air. The apps were implemented in Java for Android and Swift for iOS. These early projects sparked my interest in software development and problem-solving.
+
 
 
 
