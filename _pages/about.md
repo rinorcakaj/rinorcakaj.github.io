@@ -13,7 +13,7 @@ I'm Rinor Cakaj, a third-year PhD student at the University of Stuttgart in the 
 Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You can also check out my [CV](/cv/).
 
 ## Research Interests
-My current research focuses on developing new regularization techniques and innovative CNN architectures to improve their efficiency and effectiveness. As part of my PhD, I have published five papers and authored five patents related to these novel methods, with one already published and four currently under review. Additionally, I’ve gained a thorough understanding of other deep learning architectures, including Transformers (such as Vision Transformers (ViT) and Large Language Models (LLMs)).
+My current research focuses on developing new regularization techniques and innovative CNN architectures to improve their efficiency and effectiveness. As part of my PhD, I have published five papers and authored five patents related to these novel methods, with one already published and four currently under review. Additionally, I’ve gained a deep understanding of other deep learning architectures, including Transformers (such as Vision Transformers (ViT) and Large Language Models (LLMs)).
 
 ## Background
 Before starting my PhD, I completed a master’s degree in Mathematics interdisciplinary Informatics and a bachelor’s degree in Business Mathematics at the Technical University of Darmstadt. I also gained work experience as a working student in CIO Consulting - Digital Strategy at KPMG, as a mathematician in a multi family office at Segura & Jesberger GmbH, and in my current role at Robert Bosch GmbH focusing on deep learning.
