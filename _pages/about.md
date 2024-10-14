@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rinor Cakaj, a third-year PhD student at the University of Stuttgart in the Institute of Signal Processing and System Theory, where I am advised by [Prof. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/). I'm working on my PhD in cooperation with Robert Bosch GmbH, supervised by [Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/). My research focuses on improving the performance of Convolutional Neural Networks (CNNs) for computer vision tasks.
+I'm Rinor Cakaj, a third-year PhD student at the University of Stuttgart in the Institute of Signal Processing and System Theory, where I am advised by [Prof. Dr-Eng. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/). I'm working on my PhD in cooperation with Robert Bosch GmbH, supervised by [Dr. Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/). My research focuses on improving the performance of Convolutional Neural Networks (CNNs) for computer vision tasks.
 
 Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You can also check out my [CV](/cv/).
 
