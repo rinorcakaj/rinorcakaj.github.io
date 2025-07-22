@@ -8,60 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rinor Cakaj, a **PhD candidate** at the University of Stuttgart in the Institute of Signal Processing and System Theory, where I am advised by [Prof. Dr.-Eng. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/) and co‑supervised by [Dr. rer. nat. Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/). I have done my PhD in cooperation with Robert Bosch GmbH, have completed my thesis, and will defend it soon. My research focused on improving the performance of Convolutional Neural Networks (CNNs) for computer vision tasks.
+I'm Rinor Cakaj, a PhD candidate at the University of Stuttgart in the Institute of Signal Processing and System Theory, where I am advised by [Prof. Dr.-Eng. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/) and co‑supervised by [Dr. rer. nat. Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/). I have done my PhD in cooperation with Robert Bosch GmbH, have completed my thesis, and will defend it soon. My research focused on improving the performance of Convolutional Neural Networks (CNNs) for computer vision tasks.
 
-I currently work as a **Solution Architect at Quality Match GmbH** in Heidelberg (Mar. 2025 – Present) and am **Co‑Founder & Full‑Stack Developer of Fletza** in Stuttgart (Jan. 2025 – Present), an AI‑driven platform that converts lecture materials into flashcards, quizzes, and exam simulations. Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You can also check out my [CV](/cv/).
+I currently work as a **Solution Architect at Quality Match GmbH** in Heidelberg and am **Co‑Founder & Full‑Stack Developer of Fletza** in Stuttgart, an AI‑driven platform that converts lecture materials into flashcards, quizzes, and exam simulations. Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You can also check out my [CV](/cv/).
 
-## Research Interests
+## Expertise & Technical Interests
 
 My research focused on developing new regularization techniques and innovative CNN architectures to improve their efficiency and performance. As part of my PhD, I have published five papers and authored five patents related to these novel methods, with one already published and four currently under review. Additionally, I’ve gained a deep understanding of other deep learning architectures, including Transformers (such as Vision Transformers (ViT) and Large Language Models (LLMs)).
 
 ## Professional Experience
 
-### Quality Match GmbH — Solution Architect (Mar. 2025 – Present)
+### Quality Match GmbH — Solution Architect 
 
 * Developing AI‑driven techniques to automatically evaluate and improve data quality.
 * Designing and building Nano‑Task Trees and pipelines for efficient data annotation.
 * Implementing an LLM‑based solution that automatically designs Nano‑Tasks.
 
-### Fletza — Co‑Founder & Full‑Stack Developer (Jan. 2025 – Present)
+### Fletza — Co‑Founder & Full‑Stack Developer
 
 * Building an AI‑driven platform that transforms lecture materials (PDF, Word, PPTX) into flashcards, quizzes, and exam questions.
 * Integrating the SM‑2 spaced‑repetition algorithm (similar to Anki) for effective learning.
 * Providing exam simulations with automatic feedback.
 * Learn more at [www.fletza.com](https://www.fletza.com).
 
-## Background
-
-Before starting my PhD, I completed a master’s degree in Mathematics interdisciplinary Informatics and a bachelor’s degree in Business Mathematics at the Technical University of Darmstadt. I also gained work experience as a working student in CIO Consulting - Digital Strategy at KPMG and as a mathematician in a multi family office at Segura & Jesberger GmbH.
 
 ## Selected Publication
 
-* **[CNN Mixture‑of‑Depths (MoD)](/publication/2024-10-01-mod)**
-  *Asian Conference on Computer Vision (ACCV) 2024*
-  **Authors:** Rinor Cakaj, Jens Mehnert, Bin Yang
-
-  **Method.** Introduces Mixture‑of‑Depths (MoD), a channel‑selective inference technique that preserves accuracy while reducing compute.
-
-  **Results**
-
-  * **Image Recognition (ImageNet):**
-
-    * ResNet75‑MoD matches ResNet50 accuracy with **25 % CPU / 15 % GPU speed‑up**.
-    * ResNet86‑MoD ↑ **0.45 % accuracy** with **6 % CPU / 5 % GPU speed‑up**.
-  * **Semantic Segmentation (Cityscapes):** FCN‑ResNet86‑MoD ↑ **0.95 % mIoU** at similar cost.
-  * **Object Detection (Pascal VOC):** Faster‑RCNN‑ResNet86‑MoD ↑ **0.37 % mAP** (+0.4 % AP50) with **10 % CPU speed‑up**.
+- **[CNN Mixture‑of‑Depths (MoD)](/publication/2024-10-01-mod)** — *ACCV 2024&nbsp;(Accepted)*  
+  **Authors:** Rinor Cakaj, Jens Mehnert, Bin Yang  
+  **Contribution:** Introduces MoD, a channel‑selective inference technique that reduces compute while preserving accuracy.  
+  **Impact**  
+  - *ImageNet:* ResNet75‑MoD matches ResNet50 with **25 % CPU / 15 % GPU speed‑up**; ResNet86‑MoD ↑ **0.45 % accuracy** with **6 % CPU / 5 % GPU speed‑up**  
+  - *Cityscapes:* FCN‑ResNet86‑MoD ↑ **0.95 % mIoU** at similar cost  
+  - *Pascal VOC:* Faster‑RCNN‑ResNet86‑MoD ↑ **0.37 % mAP** (+0.4 % AP50) with **10 % CPU speed‑up**  
 
   [ArXiv](https://arxiv.org/abs/2409.17016)
 
 ## Talks & Workshops
 
-* **AI Officer – Course, Stuttgart, Germany** — *Speaker* — 20 May 2025
-  Delivered a one‑day curriculum on Generative AI, Machine Learning, and Deep Learning (same content as the Hamburg session).
-* **AI Governance – Workshop, Erlangen, Germany** — *Technical Advisor* — 13 May 2025
-  Provided technical input on integrating LLMs into workplace environments; advised on model limitations, data usage, and monitoring mechanisms.
-* **AI Officer – Course, Hamburg, Germany** — *Speaker* — 10 Apr 2025
-  Introduced key topics in Generative AI, explained GPT architecture and training, and presented techniques such as RAG and RLHF.
+* **AI Officer Course, Stuttgart - Speaker (20 May 2025):** One‑day curriculum on Generative AI, Machine Learning, and Deep Learning (same as Hamburg session).
+* **AI Governance Workshop, Erlangen - Technical Advisor (13 May 2025):** Guidance on integrating LLMs in workplace environments; covered model limitations, data usage, and monitoring.
+* **AI Officer Course, Hamburg - Speaker (10 Apr 2025):** Introduced Generative AI, detailed GPT architecture/training, and presented RAG and RLHF techniques.
+
+## Background
+
+Before starting my PhD, I completed a master’s degree in Mathematics interdisciplinary Informatics and a bachelor’s degree in Business Mathematics at the Technical University of Darmstadt. I also gained work experience as a working student in CIO Consulting - Digital Strategy at KPMG and as a mathematician in a multi family office at Segura & Jesberger GmbH.
 
 ## Personal Projects
 
