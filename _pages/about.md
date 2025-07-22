@@ -34,7 +34,7 @@ My research focused on developing new regularization techniques and innovative C
 
 ## Selected Publication
 
-- **[CNN Mixture‑of‑Depths (MoD)](/publication/2024-10-01-mod)** — *ACCV 2024&nbsp;(Accepted)*  
+- **[CNN Mixture‑of‑Depths (MoD)](/publication/2024-10-01-mod)** — *ACCV 2024*  
   **Authors:** Rinor Cakaj, Jens Mehnert, Bin Yang  
   **Contribution:** Introduces MoD, a channel‑selective inference technique that reduces compute while preserving accuracy.  
   **Impact**  
