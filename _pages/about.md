@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Rinor Cakaj, a PhD candidate at the University of Stuttgart in the Institute of Signal Processing and System Theory, where I am advised by [Prof. Dr.-Eng. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/) and co‑supervised by [Dr. rer. nat. Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/). I have done my PhD in cooperation with Robert Bosch GmbH, have completed my thesis, and will defend it soon. My research focused on improving the performance of Convolutional Neural Networks (CNNs) for computer vision tasks.
 
-I currently work as a **Solution Architect at Quality Match GmbH** in Heidelberg and am **Co‑Founder & Full‑Stack Developer of Fletza** in Stuttgart, an AI‑driven platform that converts lecture materials into flashcards, quizzes, and exam simulations. Feel free to reach out to me via [email](mailto:rinor.cakaj@de.bosch.com). You can also check out my [CV](/cv/).
+I currently work as a **Solution Architect at Quality Match GmbH** in Heidelberg and am **Co‑Founder & Full‑Stack Developer of Fletza** in Stuttgart, an AI‑driven platform that converts lecture materials into flashcards, quizzes, and exam simulations. Feel free to reach out to me via [email](mailto:cakajrinor@gmail.com). You can also check out my [CV](/cv/).
 
 ## Expertise & Technical Interests
 
