@@ -2,6 +2,19 @@
 
 <!-- start custom head snippets -->
 
+<!-- Font Awesome (fixes the "boxes" instead of icons) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" referrerpolicy="no-referrer" />
+
+<!-- Talks metrics styling (keep it global, not inline per page) -->
+<style>
+  .talks-metrics{display:flex;justify-content:space-between;gap:2.5rem;flex-wrap:wrap;margin:1.25rem 0 0.5rem 0;}
+  .talks-metrics .metric{flex:1 1 180px;text-align:center;}
+  .talks-metrics i{font-size:1.6rem;display:block;margin-bottom:0.35rem;}
+  .talks-metrics .value{font-size:2.2rem;font-weight:700;line-height:1.0;}
+  .talks-metrics .label{font-size:0.95rem;opacity:0.8;margin-top:0.25rem;}
+</style>
+
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">

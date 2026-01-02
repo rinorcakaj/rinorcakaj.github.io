@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rinor Cakaj"
 title_separator          : "-"
 name                     : &name "Rinor Cakaj"
-description              : &description "PhD Candidate"
+description              : &description "Computer Vision / Deep Learning Engineer (PhD)"
 url                      : https://rinorcakaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rinorcakaj.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rinor Cakaj"
   avatar           : "A05A0300_ab.JPG"
-  bio              : "PhD Candidate in Deep Learning"
+  bio              : "Data Scientist & ML Researcher"
   location         : "Stuttgart, Frankfurt"
-  employer         : "Quality Match GmbH"
+  employer         : "Wayve"
   university       : "University of Stuttgart"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?hl=en&user=EmjN1V4AAAAJ"
@@ -268,7 +268,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
