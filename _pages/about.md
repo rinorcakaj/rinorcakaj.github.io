@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I build efficient computer vision models and scalable ML data systems for deployment in real-world products.
-
 I’m a Data Scientist at [Wayve](https://wayve.ai/) (autonomous driving) and Co-Founder & Full-Stack Developer at [Fletza](https://www.fletza.com/). Previously, I completed a PhD in Deep Learning at the University of Stuttgart, in cooperation with Robert Bosch GmbH, advised by [Prof. Dr.-Eng. Bin Yang](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/) and co-supervised by [Dr. rer. nat. Jens Mehnert](https://www.linkedin.com/in/drjensmehnert/).
 
 My main research contribution is Mixture-of-Depths (MoD) for CNNs (ACCV 2024), achieving up to 25% CPU / 15% GPU inference speed-ups while maintaining accuracy across ImageNet, Cityscapes, and Pascal VOC.
